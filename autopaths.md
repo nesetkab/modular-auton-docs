@@ -22,3 +22,5 @@ This method allows us to easily convert Poses from Blue Alliance to Red Alliance
 Helper method to flip the heading based on alliance.
 **When using, make sure the heading you *input* is for the Blue Alliance**
 
+## generatePath() 
+Helper method to generate a path. Make sure you use the right one. Listen to the JavaDoc comments

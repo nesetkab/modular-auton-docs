@@ -17,6 +17,8 @@ export default defineConfig({
           { text: 'Intro', link: '/summary' },
           { text: 'Outline', link: '/outline' },
           { text: 'Auto Paths', link: '/autopaths' },
+          { text: 'Auto Template', link: '/autotemplate' },
+
         ]
       },
       {
